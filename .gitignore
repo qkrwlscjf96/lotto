@@ -3,3 +3,12 @@
 mlflow.db
 .env
 __pycache__/
+
+# Airflow local/runtime files
+airflow/.env
+airflow/config/airflow.cfg
+airflow/logs/
+airflow/plugins/
+
+# Local MLflow state
+*.db
