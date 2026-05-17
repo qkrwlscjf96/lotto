@@ -1,5 +1,4 @@
 /temp_code
-/airflow
 mlflow.db
 .env
 __pycache__/
