@@ -2,3 +2,4 @@
 /airflow
 mlflow.db
 .env
+__pycache__/
